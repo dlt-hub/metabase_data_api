@@ -2,9 +2,9 @@ import pandas as pd
 from metabase_data_api import MetabaseDataApi as M
 import json
 
-session_params = dict(user='adrian@scalevector.ai',
-                      password='tester1.',
-                      url='https://getdatateam.metabaseapp.com/'
+session_params = dict(user='your@email.com',
+                      password='yourpass123',
+                      url='https://your.metabaseapp.com/'
                       )
 
 mbapi = M(**session_params)
