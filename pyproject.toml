@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "metabase-data-api"
-version = "0.1.1"
+version = "0.1.11"
 description = "A package for querying metabase data via api."
 
 license = "MIT"
