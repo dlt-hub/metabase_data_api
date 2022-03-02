@@ -1,5 +1,5 @@
 import pandas as pd
-from mbdata import MetabaseDataApi as M
+from metabase_data_api import MetabaseDataApi as M
 import json
 
 session_params = dict(user='adrian@scalevector.ai',

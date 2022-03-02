@@ -8,7 +8,7 @@ usage:
 
 ```
 import pandas as pd
-from mbdata import MetabaseApi as M
+from metabase_data_api import MetabaseApi as M
 import json
 
 session_params = dict(user='name@company.ai',

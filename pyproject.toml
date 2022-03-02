@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mbdata"
+name = "metabase-data-api"
 version = "0.1.0"
 description = "A package for querying metabase data via api."
 
