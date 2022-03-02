@@ -13,8 +13,8 @@ authors = [
 
 readme = "README.md"
 
-repository = "https://github.com/scale-vector/metabase_python"
-homepage = "https://github.com/scale-vector/metabase_python"
+repository = "https://github.com/scale-vector/metabase_data_api"
+homepage = "https://github.com/scale-vector/metabase_data_api"
 
 keywords = ["metabase"]
 
