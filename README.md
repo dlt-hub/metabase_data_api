@@ -2,7 +2,7 @@
 This is a python package meant to query metabase datasources via api.
 
 install the package:
-`pip install mbdata`
+`pip install metabase-data-api`
 
 usage:
 
