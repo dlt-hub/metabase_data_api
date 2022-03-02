@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "mbapi"
+version = "0.1.0"
+description = "A package for querying metabase data via api."
+
+license = "MIT"
+
+authors = [
+    "Adrian Brudaru <adrian@scalevector.ai>",
+    "Marcin Rudolf  <marcin@scalevector.ai>",
+    "Mätthaus Krzykowski <matthaus@scalevector.ai>"
+]
+
+readme = "README.md"
+
+repository = "https://github.com/scale-vector/metabase_python"
+homepage = "https://github.com/scale-vector/metabase_python"
+
+keywords = ["metabase"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "^2.27.1"
+
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.931"
+types-requests = "^2.27.11"
