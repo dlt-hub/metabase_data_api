@@ -12,4 +12,4 @@ Assume you need to track any kind of non-linear journey and quantify and identif
 
 
 
-![sankey](examples/sankey_example/sankey_example.png)
+![sankey](sankey_example.png)

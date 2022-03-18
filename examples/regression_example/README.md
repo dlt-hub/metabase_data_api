@@ -9,4 +9,4 @@ Assume some of your app users order in app, but some mmove to the computer to or
 In this notebook we check the correlation (regression slope) between app usage and orders, and plot it.
 
 
-![notebook](examples/regression_example/notebook_mlr.png)
+![notebook](notebook_mlr.png)
