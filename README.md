@@ -66,4 +66,3 @@ The export method uses the file download functionality which is ***limited to 1m
 
 The get_ methods are calling the same endpoints that are used by metabase for its own charting and are ***limited to 2k rows of results***
 
-<img referrerpolicy="no-referrer-when-downgrade" src="http://34.111.19.16/images/a.png?event-name=documentation&event-value=repo-readme&event-source=github_metabase_data_api&url=/README.md" />

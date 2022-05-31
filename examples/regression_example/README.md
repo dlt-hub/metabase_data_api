@@ -1,7 +1,6 @@
 #Regression example
 
 This is an example of a data-driven attribution based on regression.
-<img referrerpolicy="no-referrer-when-downgrade" src="http://34.111.19.16/images/a.png?event-name=documentation&event-value=documentation&event-source=github_metabase_data_api&url=examples/regression_example/README.md" />
 
 Example case (theoretical):
 
